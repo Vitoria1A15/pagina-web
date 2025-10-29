@@ -3,3 +3,11 @@ body {
     font-family: Fleur De Leah;
     font-size: 30px;
 }
+
+header {
+    font-size: 70px;
+    text-align: center;
+    background-color: rgb(236, 4, 62);
+    color: aliceblue;
+    border: dotted;
+}
