@@ -1,13 +1,19 @@
 body {
     background-color: rgb(201, 102, 204);
     font-family: Fleur De Leah;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 header {
     font-size: 70px;
     text-align: center;
-    background-color: rgb(236, 4, 62);
+    background-color: rgb(179, 107, 212);
     color: aliceblue;
     border: dotted;
+}
+
+.top1 {
+    text-align: center;
+    background-color: rgb(200, 109, 223);
+    padding-bottom: 40px;
 }
